@@ -14,6 +14,18 @@
   <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>    
 </p>
 
+
+<!--
+### Github statistics
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesmaail&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="jesmaail" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesmaail&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="jesmaail" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jesmaail)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 <!--
 **jesmaail/jesmaail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
