@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello there... 👋
+
+## 👨‍💻 Work:
+### Currently a Software Engineer [@Creditsafe](http://github.com/creditsafe)
+### Previously @Vizolution
+Working with .Net Core, Azure, AWS
+
+
 
 <!--
 **jesmaail/jesmaail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
