@@ -4,7 +4,7 @@
 ### Previously @Vizolution
 
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
+  <img src="https://iconape.com/wp-content/files/rr/352323/svg/c-sharp-c-seeklogo.com.svg" alt="c#" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
