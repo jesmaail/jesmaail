@@ -5,13 +5,11 @@
 
 <p align="left">
   <img src="https://iconape.com/wp-content/files/rr/352323/svg/c-sharp-c-seeklogo.com.svg" alt="c#" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="c#" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>   
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>    
 </p>
 
 
