@@ -5,11 +5,11 @@
 
 <p align="left">
   <img src="https://iconape.com/wp-content/files/rr/352323/svg/c-sharp-c-seeklogo.com.svg" alt="c#" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="c#" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
+  <img src="https://iconape.com/wp-content/files/fo/371358/svg/371358.svg" alt="python" width="40" height="40"/> 
+  <img src="https://iconape.com/wp-content/files/tx/370608/svg/370608.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://iconape.com/wp-content/files/eo/370609/svg/370609.svg alt="azure" width="40" height="40"/>
+  <img src="hhttps://iconape.com/wp-content/files/cr/55190/svg/docker.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://iconape.com/wp-content/files/ni/64759/svg/git-icon.svg" alt="git" width="40" height="40"/>   
 </p>
 
 
