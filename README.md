@@ -1,5 +1,7 @@
 ### Hello there... 👋
 
+![](/assets/kenobi.gif)
+
 ### 👨‍💻 Currently a Senior Software Engineer [@Creditsafe](http://github.com/creditsafe)
 ### Previously @Vizolution
 
