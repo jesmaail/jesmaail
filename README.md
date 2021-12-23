@@ -1,6 +1,6 @@
 ### Hello there... 👋
 
-### 👨‍💻 Currently a Software Engineer [@Creditsafe](http://github.com/creditsafe)
+### 👨‍💻 Currently a Senior Software Engineer [@Creditsafe](http://github.com/creditsafe)
 ### Previously @Vizolution
 
 <p align="left">
