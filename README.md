@@ -2,8 +2,8 @@
 
 ![](/assets/kenobi.gif)
 
-### 👨‍💻 Currently a Senior Software Engineer [@Creditsafe](http://github.com/creditsafe)
-### Previously @Vizolution
+### 👨‍💻 Currently a Software Engineer [@JustEatTakeaway](https://github.com/justeattakeaway)
+### Previously [@Creditsafe](http://github.com/creditsafe), @Vizolution
 
 <p align="left">
   <img src="https://iconape.com/wp-content/files/rr/352323/svg/c-sharp-c-seeklogo.com.svg" alt="c#" width="40" height="40"/> 
